@@ -8,7 +8,7 @@ Here you'll find repositories of ideas I've put into practice in the form of cod
 
 * 🌍  I'm based in España
 * ✉️  You can contact me at [javiermontes97@gmail.com](mailto:javiermontes97@gmail.com)
-* 🧠  I'm learning CSS y JAVASCRIPT
+* 🧠  I'm learning CSS & JAVASCRIPT
 
 ### Skills
 
